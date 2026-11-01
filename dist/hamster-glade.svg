@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590" fill="none">
+<defs>
+ <pattern id="paper" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".6" fill="#5a704e" opacity=".08"/></pattern>
+ <g id="clover"><path d="M0 0q-18-24-25-10T0 4q18-24 25-10T0 7" fill="#6f8b60"/><path d="M0 2v22" stroke="#6f8b60" stroke-width="3"/></g>
+ <g id="flower"><path d="M0 0v28" stroke="#70854c" stroke-width="3"/><path d="M0 17q-15-15-17-2Q-10 24 0 20" fill="#809552"/><circle cy="-6" r="9" fill="#fff9d9"/><circle cx="9" r="9" fill="#fff9d9"/><circle cy="9" r="9" fill="#fff9d9"/><circle cx="-9" r="9" fill="#fff9d9"/><circle r="6" fill="#d5a64c"/></g>
+ <g id="pine"><path d="M0 0v190" stroke="#7a7050" stroke-width="12"/><path d="M0-20-70 82h30l-50 65H88l-50-65h30Z" fill="#7f9678"/><path d="M0 3-48 81h23l-49 56H60L17 81h24Z" fill="#8ba482"/></g>
+</defs>
+<path fill="#e8eddc" d="M0 0h1000v590H0z"/>
+<circle cx="724" cy="100" r="67" fill="#f2cf8b"/>
+<path d="M-40 295Q170 62 391 244T1046 175V590H-40Z" fill="#cbd9b7"/>
+<path d="M-20 348Q223 207 450 303T1020 263V590H-20Z" fill="#b4c69d"/>
+<path d="M0 410Q200 332 454 381T1000 349V590H0Z" fill="#a1b789"/>
+<path d="M760 282q-62 50 21 89t-8 69q-163 62-81 150h308V450q-216-5-120-69t-36-106Z" fill="#b6d4ce"/>
+<path d="M784 320q-28 31 30 48m32 49q-45 12-59 30m-52 79q-9 11-6 27m178-54h37" stroke="#e4eee1" stroke-width="4" stroke-linecap="round"/>
+<path d="M525 324q-156 63-127 115t-77 151h308q16-104-47-145t16-121Z" fill="#e8d6ab"/>
+<path d="M503 360q-71 45-52 86m37 58q-15 20-23 43" stroke="#d3bd8c" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 12"/>
+<g opacity=".8"><use href="#pine" transform="translate(66 95) scale(1.1)"/><use href="#pine" transform="translate(163 145) scale(.78)"/><use href="#pine" transform="translate(940 110) scale(1.12)"/><use href="#pine" transform="translate(866 159) scale(.6)"/></g>
+<path d="M-24 79q70-95 139-25t13 92q36 67-40 103t-123-36Z" fill="#6f885e"/>
+<path d="M66 1q-22 109-11 231" stroke="#8b7952" stroke-width="25"/>
+<path d="m58 92 44-31M55 141l-31-27" stroke="#8b7952" stroke-width="13" stroke-linecap="round"/>
+<path d="M962-15q92 78 29 135t-64 23q-49 35-64-20t29-68q-13-76 70-70Z" fill="#7c935e"/>
+<path d="M965 1q-17 148-4 284" stroke="#8b7952" stroke-width="25"/>
+<path d="m956 112-44-32m48 99 31-18" stroke="#8b7952" stroke-width="12" stroke-linecap="round"/>
+<!-- A tiny home in the hillside -->
+<path d="M217 303q11-89 86-77 65 8 71 82" fill="#a0aa79"/>
+<path d="M263 308v-35q1-32 29-32t29 32v35" fill="#735943"/>
+<path d="M272 307v-34q0-23 20-23t20 23v34" fill="#a88b5b"/>
+<path d="M292 255v50" stroke="#856941" stroke-width="2"/>
+<circle cx="304" cy="281" r="3" fill="#ecd69b"/>
+<path d="M222 308q54-17 125 3" stroke="#7e9663" stroke-width="11" stroke-linecap="round"/>
+<path d="M243 248q-4-16-15-9t6 16m112 22q17-22 21-8t-21 16" fill="#7f965d"/>
+<!-- Bridge -->
+<path d="M710 407q74-46 151-5l12 22q-77-33-156 7Z" fill="#b18c5f" stroke="#806a48" stroke-width="3"/>
+<path d="m733 409 5 15m15-21 5 15m17-20 3 17m17-18v18m18-17-2 19m20-14-3 18" stroke="#806a48" stroke-width="3"/>
+<path d="M717 392v30m145-36v27M717 392q66-42 145-6" stroke="#7b6a49" stroke-width="7" stroke-linecap="round"/>
+<!-- Travel sign -->
+<path d="m684 264-5 105" stroke="#86704b" stroke-width="10" stroke-linecap="round"/>
+<path d="m644 271 81 4 20 17-23 12-80-5Z" fill="#bd985c" stroke="#907345" stroke-width="2"/>
+<path d="m697 288 27 1m-9-5 9 5-9 5" stroke="#7a613c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Hamster's shadow, feet, pack -->
+<ellipse cx="494" cy="479" rx="101" ry="17" fill="#887b50" opacity=".19"/>
+<path d="M413 361q-47-3-38 47t41 37" fill="#6d8052" stroke="#576b45" stroke-width="4"/>
+<path d="M388 375q-18 22-1 44m-4-27h19" stroke="#9ba776" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="455" cy="470" rx="27" ry="12" fill="#d9a56d" stroke="#8f633e" stroke-width="3"/>
+<ellipse cx="538" cy="471" rx="27" ry="12" fill="#d9a56d" stroke="#8f633e" stroke-width="3"/>
+<!-- Ears -->
+<ellipse cx="434" cy="295" rx="33" ry="37" transform="rotate(-20 434 295)" fill="#c68b51" stroke="#98643e" stroke-width="3"/>
+<ellipse cx="434" cy="297" rx="20" ry="23" transform="rotate(-20 434 297)" fill="#e3ac8f"/>
+<ellipse cx="548" cy="295" rx="33" ry="37" transform="rotate(20 548 295)" fill="#c68b51" stroke="#98643e" stroke-width="3"/>
+<ellipse cx="548" cy="297" rx="20" ry="23" transform="rotate(20 548 297)" fill="#e3ac8f"/>
+<!-- Body and face -->
+<path d="M413 380q-14 88 38 93h80q49-9 32-94Z" fill="#c98c52" stroke="#98643e" stroke-width="3"/>
+<ellipse cx="493" cy="414" rx="53" ry="55" fill="#f4dfb5"/>
+<path d="M402 349q-2-61 87-62 90-1 94 64 15 58-32 70-20 10-62 6-93 3-87-78Z" fill="#d7a068" stroke="#98643e" stroke-width="3"/>
+<path d="M411 367q16-25 49-12 12 5 29 5 16 0 31-5 33-14 53 12 12 41-27 48-26 12-58 7-82 6-77-55Z" fill="#f8e9c9"/>
+<path d="M483 291q12 17 13 38m-2-35q6 9 17 13" stroke="#edbd84" stroke-width="9" stroke-linecap="round"/>
+<ellipse cx="454" cy="352" rx="7" ry="10" fill="#3f3328"/>
+<ellipse cx="532" cy="352" rx="7" ry="10" fill="#3f3328"/>
+<circle cx="456" cy="349" r="2.5" fill="#fff9eb"/><circle cx="534" cy="349" r="2.5" fill="#fff9eb"/>
+<ellipse cx="434" cy="375" rx="13" ry="7" fill="#e8a28b" opacity=".75"/>
+<ellipse cx="551" cy="375" rx="13" ry="7" fill="#e8a28b" opacity=".75"/>
+<path d="M485 371q8-6 16 0-1 8-8 9-8-2-8-9" fill="#a26652"/>
+<path d="M493 380v7m0 0q-9 10-17 1m17-1q8 10 17 1" stroke="#75513a" stroke-width="2.5" stroke-linecap="round"/>
+<path d="m424 377-25-5m26 13-27 4m162-13 26-5m-25 13 27 4" stroke="#986f4a" stroke-width="2" stroke-linecap="round"/>
+<!-- A scarf and tiny explorer's map -->
+<path d="M422 408q69 23 140-1l-5 17q-61 27-131 0Z" fill="#b85539"/>
+<path d="m444 421-8 36 17-3 9 8 8-36" fill="#bd6240" stroke="#a34e35" stroke-width="2"/>
+<path d="m523 421 44-7 11 32-48 9Z" fill="#fff2d1" stroke="#ac9465" stroke-width="2"/>
+<path d="m539 432 19-7-1 13 11 2m-19-10-6 13" stroke="#a2b182" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 3"/>
+<ellipse cx="533" cy="445" rx="13" ry="9" transform="rotate(-20 533 445)" fill="#dcad78" stroke="#a27048" stroke-width="2"/>
+<ellipse cx="423" cy="439" rx="12" ry="18" transform="rotate(-30 423 439)" fill="#dcad78" stroke="#a27048" stroke-width="2"/>
+<!-- Meadow details -->
+<path d="M-10 515q137-51 247 10t119 65H0Zm676 75q74-78 174-71t150-31v102Z" fill="#8ca570"/>
+<g><use href="#clover" transform="translate(166 475) scale(.75)"/><use href="#clover" transform="translate(212 536)"/><use href="#clover" transform="translate(883 510) scale(.7)"/><use href="#clover" transform="translate(639 498) scale(.55)"/></g>
+<g><use href="#flower" transform="translate(106 472) scale(.7)"/><use href="#flower" transform="translate(139 492) scale(.9)"/><use href="#flower" transform="translate(811 536) scale(.7)"/><use href="#flower" transform="translate(850 554)"/></g>
+<path d="m56 520-3 26m18-32-4 34m863-29 3 24m14-36 3 33m-262-90 3 19m13-22-4 22" stroke="#718e5c" stroke-width="4" stroke-linecap="round"/>
+<path d="M295 451v31m-9-27h18" stroke="#e9d9ac" stroke-width="10" stroke-linecap="round"/>
+<path d="M271 452q22-42 45-1Z" fill="#b26546"/>
+<circle cx="287" cy="445" r="4" fill="#f7e7c6"/><circle cx="302" cy="447" r="3" fill="#f7e7c6"/>
+<path d="m608 306 5-9 5 9-5 9Zm-250 77 4-7 4 7-4 7Z" fill="#f8e9ae"/>
+<path d="M619 138q9-10 18 0m5-14q9-9 17 0" stroke="#8a9b71" stroke-width="3" stroke-linecap="round"/>
+<path fill="url(#paper)" d="M0 0h1000v590H0z"/>
+</svg>

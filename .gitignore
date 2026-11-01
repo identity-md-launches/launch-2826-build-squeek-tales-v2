@@ -1,0 +1,10 @@
+# Explicit generated-path budget: all dependency/cache patterns below contribute 0 bytes.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/coverage/
+**/playwright-report/
+**/test-results/
+**/.playwright-mcp/
+# Scratch is disposable and contributes 0 bytes. Required dist/ remains included.
+/test/scratch/
